@@ -1,0 +1,92 @@
+﻿  Planet.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(1856,1): warning C4005: 'RGB': macro redefinition
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Global.h(10): message : see previous definition of 'RGB'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(7,77): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(8,81): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(9,85): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(10,90): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(11,94): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(12,98): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(13,103): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(15,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(18,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(19,72): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(41,44): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(41,56): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(48,14): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(46,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(67,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(67,37): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(67,50): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(70,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(70,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(81,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(81,37): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(81,50): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(84,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(84,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(93,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(93,37): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(93,50): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(96,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(96,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(106,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(106,37): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(106,50): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(109,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(109,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(117,26): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(117,40): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(117,54): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(120,44): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(120,56): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(123,26): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(123,40): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(123,54): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(126,44): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(126,56): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(137,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(137,37): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(137,50): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(140,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(140,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(150,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(150,37): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(150,50): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(153,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(153,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(161,26): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(161,40): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(161,54): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(164,44): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(164,56): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(167,26): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(167,40): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(167,54): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(170,44): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(170,56): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(181,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(193,42): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(193,53): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(181,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(182,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(183,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(189,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(190,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(197,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(220,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(220,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(221,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Planet.c(222,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(1856,1): warning C4005: 'RGB': macro redefinition
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Global.h(10): message : see previous definition of 'RGB'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\main.c(24,18): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\main.c(120,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\main.c(121,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\main.c(123,29): warning C4113: 'void (__cdecl *)(unsigned char,int,int)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+  read_file.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(1856,1): warning C4005: 'RGB': macro redefinition
+C:\Users\akarenhv\Documents\[CSCI3161]\Planets\Planets\Global.h(10): message : see previous definition of 'RGB'
+  Generating Code...
+  Planets.vcxproj -> C:\Users\akarenhv\Documents\[CSCI3161]\Planets\x64\Debug\Planets.exe
